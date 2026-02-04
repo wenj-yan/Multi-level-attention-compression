@@ -119,7 +119,7 @@ Atlas A3 系列产品
 
    ```shell
    # 下载项目源码，以master分支为例
-   git clone ######
+   git clone https://github.com/wenj-yan/Multi-level-attention-compression.git
    
    # 安装依赖的python库 ，仅支持python3.9.9
    cd qwen2.5-compression/
